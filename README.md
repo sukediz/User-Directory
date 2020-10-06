@@ -25,7 +25,7 @@ Clone the GitHub repository to your local drive. Run `npm install` to install de
 
 ### Deployment
 
-View the GitHub Pages deployment [here](https://sukediz.github.io/Employee-Directory/)
+View the GitHub Pages deployment [here](https://sukediz.github.io/User-Directory/)
 
 ### Contributing
 
