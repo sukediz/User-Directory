@@ -21,7 +21,7 @@ Clone the GitHub repository to your local drive. Run `npm install` to install de
 
 ### Usage
 
-* In GitBash or other command line tool, run `node server.js` to initiate the program. This will start the server.
+* Using the search bar in the deployed application, search for a particular user by first name, last name, title, gender, date of birth, email or mobile number.
 
 ### Deployment
 
