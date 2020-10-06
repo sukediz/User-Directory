@@ -1,4 +1,4 @@
-# Employee Directory
+# User Directory
 
 [![](https://img.shields.io/badge/License-ISC-green)](https://opensource.org/licenses/ISC)
 
